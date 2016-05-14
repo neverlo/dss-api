@@ -1,14 +1,14 @@
 {
-  "name": "apifaker",
-  "author": "hylin <admin@hylin.org>",
-  "homepage": "http://apifaker.com/",
+  "name": "dss-api",
+  "author": "rex",
+  "homepage": "",
   "version": "0.0.1",
-  "description": "A useful tool for front-end engineer to fake a api",
-  "main": "apifaker.js",
+  "description": "dss-api",
+  "main": "dssapi.js",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/hylin/apifaker"
+    "url": ""
   },
   "license": "Apache License 2.0",
   "dependencies": {
