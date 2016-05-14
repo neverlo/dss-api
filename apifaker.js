@@ -67,6 +67,6 @@ app.use(config.managerPath, require('./controllers/api'));
 app.use(config.managerPath, require('./controllers/simulator'));
 app.use(require('./controllers/handler'));
 
-app.listen(config.port, function(){
+app.listen(config.port, '0.0.0.0', function(){
   console.log('Server started at '+config.port + ' ...');
 });
